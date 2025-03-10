@@ -1,6 +1,6 @@
-[gd_scene load_steps=2 format=3 uid="uid://dcxy8wff4v5q3"]
+[gd_scene load_steps=2 format=3 uid="uid://bwgvla1fa1o42"]
 
-[ext_resource type="Script" uid="uid://dobjua0l5w8sd" path="res://addons/godot_core_system/examples/state_machine/example.gd" id="1_ubibr"]
+[ext_resource type="Script" uid="uid://mmwadm71pi7m" path="res://addons/godot_core_system/examples/state_machine/example.gd" id="1_spsyk"]
 
 [node name="Example" type="Node2D"]
-script = ExtResource("1_ubibr")
+script = ExtResource("1_spsyk")

@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://c78l34csftot7"]
 
-[ext_resource type="Script" uid="uid://dbdu3ie30xql8" path="res://addons/godot_core_system/examples/event_bus_demo/event_bus_demo.gd" id="1_tn4av"]
+[ext_resource type="Script" uid="uid://ek0dop40lat7" path="res://addons/godot_core_system/examples/event_bus_demo/event_bus_demo.gd" id="1_tn4av"]
 
 [node name="EventBusDem" type="Node2D"]
 script = ExtResource("1_tn4av")
